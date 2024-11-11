@@ -4,11 +4,11 @@ Python Bitcoin Library
 Bitcoin cryptocurrency Library writen in Python.
 
 Allows you to create a fully functional Bitcoin wallet with a single line of code.
-Use this library to create and manage transactions, addresses/keys, wallets, mnemonic password phrases
+Use this library to create and manage transactions, addresses/keys, wallets, and mnemonic password phrases.
 and blocks with simple and straightforward Python code.
 
-You can use this library at a high level and create and manage wallets from the command line or at a low level
-and create your own custom made transactions, scripts, keys or wallets.
+You can use this library at a high level and create and manage wallets from the command line or at a low level 
+and create your own custom-made transactions, scripts, keys, or wallets.
 
 The BitcoinLib connects to various service providers automatically to update wallets, transaction and
 blockchain information. You can also connect to a local
